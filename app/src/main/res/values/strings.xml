@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zero Ekylibre</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment2" >Hello blank fragment 2</string>
+    <string name="hello_blank_fragment3" >Hello blank fragment 3</string>
+    <string name="tab1_title" >Home</string>
+    <string name="tab2_title" >Dashboard</string>
+    <string name="tab3_title" >Notifications</string>
+    <string name="form_name" >Your name</string>
+    <string name="form_button_label" >Save</string>
+    <string name="user_list_label" >Users in database</string>
+    <string name="form_user_last_name" >First Name</string>
+    <string name="form_user_firt_name">Last Name</string>
+</resources>
